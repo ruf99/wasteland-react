@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Prociono&family=Sorts+Mill+Goudy&display=swap');
+
+@font-face {
+  	font-family: 'Goudy Bookletter 1911';
+  	font-style: normal;
+  	font-weight: 400;
+  	src: url(https://fonts.gstatic.com/s/goudybookletter1911/v13/sykt-z54laciWfKv-kX8krex0jDiD2HbY6IJshzW.woff2) format('woff2');
+  	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, 	U+2215, U+FEFF, U+FFFD;
+}
+
+ol.c {list-style-type: upper-roman;}
+
+.box-container-refs {
+    height: 80%;
+    text-align: left;
+ 
+    overflow: hidden;
+
+}
+
+.ref {
+    background-image: linear-gradient( 108.1deg,  rgba(167,220,225,1) 11.2%, rgba(217,239,242,1) 88.9% );
+}
+
+.ref * {
+    margin: 0;
+    padding: 0;
+}
+
+.list-ref {
+    padding: 6px;
+    margin-left: 20%;
+}
+
+.footer_roo_ref {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #061a40;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+     
+  }
+
+.link-ref, a:link {
+    text-decoration: none;
+    color: #00A6A6;
+    cursor: pointer;
+}
+
+.box-container-refs a:hover {
+    color: #23967F;
+    font-weight: bold;
+    cursor: pointer;
+    animation-delay: 50ms;
+
+}
+
+.box-container-refs a:active {
+    color: #16697A;
+    font-weight: bold;
+    cursor: pointer;
+    animation-delay: 50ms;
+}
+
+.box-container-refs a:visited {
+    color: #489FB5;
+    font-weight: bold;
+    cursor: pointer;
+    animation-delay: 50ms;
+}

@@ -1,0 +1,23 @@
+{
+    "name": "spotify-server",
+    "version": "1.0.0",
+    "description": "Server to handle Spotify API requests",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "dependencies": {
+        "axios": "^1.6.8",
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "pg": "^8.11.5",
+        "querystring": "^0.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
