@@ -4,10 +4,10 @@ Hello! I made this project during the Out In Tech mentorship series, and this is
 
 ## Features
 
-**View Albums**: Users can search for artists and view up to four albums, with special functionalities for Hozier.
-**Detailed Analysis**: Provides in-depth analysis of Hozier's albums, including song themes, similar music, and more.
-**Interactive UI**: Allows users to interactively fetch and display data from a PostgreSQL database.
-**Real-Time Updates**: Supports real-time data fetching for albums to ensure the UI always displays up-to-date information.
+- **View Albums**: Users can search for artists and view up to four albums, with special functionalities for Hozier.
+- **Detailed Analysis**: Provides in-depth analysis of Hozier's albums, including song themes, similar music, and more.
+- **Interactive UI**: Allows users to interactively fetch and display data from a PostgreSQL database.
+- **Real-Time Updates**: Supports real-time data fetching for albums to ensure the UI always displays up-to-date information.
 
 ## Technology Stack
 
