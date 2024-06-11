@@ -203,7 +203,7 @@ export default function AnalyzerPage() {
       {!selectedAlbum && allViewed && <div className="spotify-playlist">{spotifyPlaylist}</div>} 
       </header>
       <footer className='footer_roo_analyzer'>
-      © Rufaida's Portfolio 🩵| 2020-2024   
+      <a className="portfolioLink" href="https://ruf99.github.io"> © Rufaida's Portfolio 🩵| 2020-2024   </a>
       </footer>
       </div>
   );

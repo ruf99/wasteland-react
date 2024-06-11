@@ -25,7 +25,7 @@ function ReferencesPage() {
       </div>
       </div>
       <footer className='footer_roo_ref'>
-      © Rufaida's Portfolio 💙| 2020-2024 
+      <a className="portfolioLink" href="https://ruf99.github.io">© Rufaida's Portfolio 💙| 2020-2024 </a>
       </footer>
     </>
   );

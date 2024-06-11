@@ -144,14 +144,17 @@
       -webkit-backdrop-filter: blur(20px);
       border: 1px solid rgba(10, 182, 196, 0.13);
       height: 100%;
-      width: 70%;
+      width: 55%;
       align-items: center;
       justify-content: center;
       text-align: center;
       margin-top: 5%;
       margin-left: auto;
       margin-right: auto;
-      padding: 5px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 5px;
+      padding-right: 5px;
   }
 
   .p_message {
@@ -159,3 +162,22 @@
     margin-bottom: 5px;
     word-spacing: 5px;
   }
+
+  .portfolioLink {
+    color: white;
+}
+
+.informationMessageBox {
+  display: flex;
+  flex-direction: row;
+}
+
+.p_message {
+  flex: 1;
+}
+
+.prideFlag {
+  width: 80%;
+  height: 100%;
+  border-radius: 45%;
+}

@@ -71,3 +71,8 @@ ol.c {list-style-type: upper-roman;}
     cursor: pointer;
     animation-delay: 50ms;
 }
+
+.portfolioLink {
+    color: white;
+}
+
