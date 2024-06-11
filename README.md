@@ -1,5 +1,17 @@
 # Out In Tech | Roo Project
 
+## Loom Demo
+
+<div>
+    <a href="https://www.loom.com/share/ca668e4fcb224aabb19953a10ca539ab">
+      <p>OiT Project Demo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ca668e4fcb224aabb19953a10ca539ab">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ca668e4fcb224aabb19953a10ca539ab-with-play.gif">
+    </a>
+  </div>
+
+
 Hello! I made this project during the Out In Tech mentorship series, and this is a web-based application that interacts with a PostgreSQL database to manage and display album data from Spotify, particularly focusing on albums by Hozier. It allows users to view detailed analysis of selected albums and manage data updates in real-time.
 
 ## Features
